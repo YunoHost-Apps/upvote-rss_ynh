@@ -8,10 +8,10 @@ It shall NOT be edited by hand.
   Upvote RSS, packaged for YunoHost
 </h1>
 
-Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more
+Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://www.upvote-rss.com/)
-[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.example.com)
+[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://www.upvote-rss.com/)
 [![Version: 1.8.0~ynh1](https://img.shields.io/badge/Version-1.8.0~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/upvote-rss/)
 
 <div align="center">
