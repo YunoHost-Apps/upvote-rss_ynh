@@ -1,6 +1,4 @@
 #!/bin/bash
-## new location is available via $domain and $path (or $new_domain and $new_path variables if you want to be explicit)
-## old values are available via, you guessed it, $old_domain and $old_path
 
 #=================================================
 # IMPORT GENERIC HELPERS
@@ -15,7 +13,6 @@ ynh_script_progression "Updating NGINX web server configuration..."
 
 # this will most likely adjust NGINX config correctly
 ynh_config_change_url_nginx
-
 
 #=================================================
 # END OF SCRIPT

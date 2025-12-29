@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Générez des flux RSS pour les publications populaires provenant des sites Web d'agrégation sociale Reddit, Lemmy, Hacker News, Lobsters, PieFed, Mbin et git forge GitHub.
