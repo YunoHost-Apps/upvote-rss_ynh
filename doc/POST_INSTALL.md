@@ -1,0 +1,1 @@
+Edit the `__INSTALL_DIR__/.env` file in the root directory to override application defaults or to integrate with Redis, Ollama, OpenAI, Readability, etc. (see supported [environment variables](https://github.com/johnwarne/upvote-rss?tab=readme-ov-file#environment-variables))

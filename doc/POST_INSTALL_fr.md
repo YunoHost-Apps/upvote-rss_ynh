@@ -1,0 +1,1 @@
+Modifiez le fichier `__INSTALL_DIR__/.env` dans le répertoire racine pour remplacer les paramètres par défaut de l'application ou pour l'intégrer à Redis, Ollama, OpenAI, Readability, etc. (voir les [variables d'environnement] prises en charge (https://github.com/johnwarne/upvote-rss?tab=readme-ov-file#environment-variables)).
